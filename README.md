@@ -37,7 +37,7 @@ Solved a real-world business case study using SQL for AtliQ Hardwares (Consumer 
 🔹 Excel (for minor validation) 📈  
 
 ## 🔗 View Project:
-[GitHub Repository - AtliQ Hardwares SQL Case Study](https://github.com/rohankakade1096/AtliQ-Hardwares-SQL-Case-Study)
+[GitHub Repository - AtliQ Hardwares SQL Case Study](https://github.com/rohankakade1096)
 
 ## 💼 Domain:
 Consumer Goods / Sales Analytics
